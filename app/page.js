@@ -118,7 +118,7 @@ function Hero() {
           width={1672}
           height={941}
           decoding="async"
-          alt="Mountain bike elétrica S-Works em frente à fachada da SB Place, revenda autorizada Specialized"
+          alt="Bicicleta speed S-Works em frente à fachada da SB Place, revenda autorizada Specialized"
           fetchPriority="high"
           className="block aspect-video w-full object-cover lg:aspect-auto lg:h-full lg:object-contain lg:object-right"
         />
